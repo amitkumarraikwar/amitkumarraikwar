@@ -4,7 +4,7 @@ Hi 👋 My name is Amit Kumar Raikwar
 I'm a full-stack developer and BCA student with a passion for creating useful and beautiful digital things.
 
 * 🌍  I'm based in Lalitpur, India  
-* 🖥️  My Portfolio: [Click Here](https://princekashyap2024.github.io/amitkumarraikwar/)  
+* 🖥️  My Portfolio: [Click Here](https://amit-kumar-raikwar-portfolio.vercel.app/)  
 * ✉️  Contact Me: [amitkumarraikwar92@gmail.com](mailto:amitkumarraikwar92@gmail.com)  
 * 🚀  Currently Building: **VictoryVault** — an esports tournament platform  
 * 🧠  Learning: Deep UI/UX & Scaling Full Stack Projects  
