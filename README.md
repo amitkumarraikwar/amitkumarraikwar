@@ -4,12 +4,12 @@ Hi 👋 I'm Amit Kumar Raikwar
 I'm a full-stack developer and BCA student with a passion for building meaningful digital products that solve real-world problems.
 
 * 🌍  Based in Lalitpur, India  
-* 🖥️  Portfolio: [amit-kumar-raikwar-portfolio.vercel.app](https://amit-kumar-raikwar-portfolio.vercel.app/)  
-* ✉️  Contact: [amitkumarraikwar92@gmail.com](mailto:amitkumarraikwar92@gmail.com)  
-* 🚀  Currently Building: **VictoryVault** — an esports tournament and livestream platform  
+* 🖥️  Portfolio: [amit kumar raikwar portfolio](https://amit-kumar-raikwar-portfolio.vercel.app/)  
+* ✉️  Contact: [amitkumarraikwar92@gmail.com](mailto:amitkumarraikwar92+github@gmail.com)  
+* 🚀  Currently Building: **EasyLang** — an Indian slang first hindi language  
 * 🧠  Exploring: Advanced UI/UX, Real-time Web Apps, and Open Source Dev  
 * 🤝  Collab Goals: Full-stack, Game Dev, Automation Tools  
-* ⚡  Fun Fact: I once built a flipping-page birthday book... for love 😏
+* ⚡  Fun Fact: I once built a flipping-page birthday book... for my love 😏
 
 ---
 
