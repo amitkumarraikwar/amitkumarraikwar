@@ -1,19 +1,19 @@
-Hi 👋 My name is Amit Kumar Raikwar
-==================================
+Hi 👋 I'm Amit Kumar Raikwar
+=============================
 
-I'm a full-stack developer and BCA student with a passion for creating useful and beautiful digital things.
+I'm a full-stack developer and BCA student with a passion for building meaningful digital products that solve real-world problems.
 
-* 🌍  I'm based in Lalitpur, India  
-* 🖥️  My Portfolio: [Click Here](https://amit-kumar-raikwar-portfolio.vercel.app/)  
-* ✉️  Contact Me: [amitkumarraikwar92@gmail.com](mailto:amitkumarraikwar92@gmail.com)  
-* 🚀  Currently Building: **VictoryVault** — an esports tournament platform  
-* 🧠  Learning: Deep UI/UX & Scaling Full Stack Projects  
-* 🤝  Open to Collabs on full-stack, gaming, or automation projects  
-* ⚡  Random: Built a flipping-page birthday book just for fun (and love 😏)
+* 🌍  Based in Lalitpur, India  
+* 🖥️  Portfolio: [amit-kumar-raikwar-portfolio.vercel.app](https://amit-kumar-raikwar-portfolio.vercel.app/)  
+* ✉️  Contact: [amitkumarraikwar92@gmail.com](mailto:amitkumarraikwar92@gmail.com)  
+* 🚀  Currently Building: **VictoryVault** — an esports tournament and livestream platform  
+* 🧠  Exploring: Advanced UI/UX, Real-time Web Apps, and Open Source Dev  
+* 🤝  Collab Goals: Full-stack, Game Dev, Automation Tools  
+* ⚡  Fun Fact: I once built a flipping-page birthday book... for love 😏
 
 ---
 
-### ⚙️ Skills
+### ⚙️ Tech Stack
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" />
@@ -31,20 +31,27 @@ I'm a full-stack developer and BCA student with a passion for creating useful an
 
 ---
 
-### 📂 Projects
+### 📂 Featured Projects
 
-- **🎮 Snake Game** — [GitHub](https://github.com/Princekashyap2024/snake-game-using-godot-engine)  
-- **🛒 DropShop (E-Commerce)** — [GitHub](https://github.com/Princekashyap2024/DropShop-Web)  
-- **📝 Personal Blog Website** — [GitHub](https://github.com/Princekashyap2024/Personal-Blog-Website)  
-- **🎉 Digital Birthday Book** — [Live](https://digital-birthday-book-for-her.vercel.app/) • [GitHub](https://github.com/Princekashyap2024/Digital-Birthday-Book-For-Her)  
-- **🌐 Portfolio Site** — [Live](https://princekashyap2024.github.io/amitkumarraikwar/) • [GitHub](https://github.com/Princekashyap2024/amitkumarraikwar)
+- **📚 BookWorm** — Cross-platform mobile library app  
+  [Frontend](https://github.com/amitkumarraikwar/BookWorm-Mobile) • [Backend](https://github.com/amitkumarraikwar/Bookworm)  
+- **💬 WhatsApp Web Clone** — Real-time chat app  
+  [GitHub](https://github.com/amitkumarraikwar/WhatsApp-Web-Clone) • [Live](https://whats-app-web-clone-1kukq26ai-app-development-b03ce04f.vercel.app/)  
+- **🧠 EasyLang** — Hindi-based interpreted programming language  
+  [GitHub](https://github.com/amitkumarraikwar/EasyLang) • [Live](https://easy-lang-three.vercel.app/) • [NPM](https://www.npmjs.com/package/easylang-interpreter)  
+- **🔗 DevLink** — URL shortener with QR and analytics  
+  [GitHub](https://github.com/amitkumarraikwar/DevLink) • [Live](https://davlink.vercel.app/)  
+- **🌐 Portfolio** — You’re looking at it 😉  
+  [GitHub](https://github.com/amitkumarraikwar/Amit-Kumar-Raikwar-Portfolio) • [Live](https://amit-kumar-raikwar-portfolio.vercel.app/)  
+- **🎉 Digital Birthday Book** — For someone special  
+  [Live](https://digital-birthday-book-for-her.vercel.app/) • [GitHub](https://github.com/amitkumarraikwar/Digital-Birthday-Book-For-Her)  
 
 ---
 
 ### 🌐 Socials
 
 <p align="left">
-  <a href="https://github.com/Princekashyap2024" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+  <a href="https://github.com/amitkumarraikwar" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
   <a href="https://www.linkedin.com/in/amitkumarraikwar" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
   <a href="mailto:amitkumarraikwar92@gmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="32" height="32" /></a>
 </p>
@@ -63,8 +70,8 @@ I'm a full-stack developer and BCA student with a passion for creating useful an
 
 ### ☕ Support Me
 
-Coming soon... maybe I’ll start a "Buy Me A Biryani" 😄
+Coming soon... Might just start a "Buy Me a Biryani" 😄
 
 ---
 
-> “Jo kaam kar raha ho, usme jaan daal do. Baaki sab auto-save ho jaayega.” — Amit ✨
+> “Jo kaam kar raha ho, usme jaan daal do. Baaki sab auto-save ho jaayega.” — Amit
