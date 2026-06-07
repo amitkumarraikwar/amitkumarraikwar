@@ -17,7 +17,7 @@
 
 <!-- SOCIAL BADGES -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/amit-kumar-raikwar-77925a299">
+  <a href="https://www.linkedin.com/in/amitkumarraikwar">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;
