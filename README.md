@@ -142,14 +142,13 @@ const amit: Developer = {
 
 | Project | What It Does | Stack | Links |
 |:--------|:-------------|:------|:-----:|
-| **Edgvance** | High-scale e-commerce (Amazon/Flipkart model) with Redis caching, BullMQ jobs, PostHog analytics & Razorpay | Next.js 16.1, React 19, MongoDB, Redis, Razorpay | [Live ↗](https://edgvance.vercel.app) |
-| **Recuvix** | AI-powered blog generation SaaS — write, manage & publish SEO-optimized blogs | Next.js, Node.js, MongoDB, OpenAI | [Live ↗](#) |
-| **NovaEdge Academy** | Full-stack LMS with 60+ pages, course delivery, progress tracking, community | Next.js 16, Tailwind, Framer Motion, Node, MongoDB | [Live ↗](#) |
+| **Edgvance** | High-scale e-commerce (Amazon/Flipkart model) with Redis caching, BullMQ jobs, PostHog analytics & Razorpay | Next.js 16.1, React 19, MongoDB, Redis, Razorpay | [Live ↗](https://edgvance.in/) |
+| **Recuvix** | AI-powered blog generation SaaS — write, manage & publish SEO-optimized blogs | Next.js, Node.js, MongoDB, OpenAI | [Live ↗](https://recuvix.in/) |
+| **NovaEdge Academy** | Full-stack LMS with 60+ pages, course delivery, progress tracking, community | Next.js 16, Tailwind, Framer Motion, Node, MongoDB | [Live ↗](https://www.novaedgeacademy.in/) |
 | **EasyLang** | Hindi-first interpreted programming language published as NPM package | TypeScript, Node.js | [npm ↗](https://www.npmjs.com/package/easylang-interpreter) · [Live ↗](https://easy-lang-three.vercel.app/) |
-| **NovaEdge News** | Automated AI-driven Hindi news portal using OpenRouter + RSS feeds + cron | Next.js, OpenRouter API, Cron | [Live ↗](#) |
+| **NovaEdge News** | Automated AI-driven Hindi news portal using OpenRouter + RSS feeds + cron | Next.js, OpenRouter API, Cron | [Live ↗](https://news.novaedgedigitallabs.in/) |
 | **BookWorm** | Cross-platform mobile library app — reviews, ratings, personal collections | React Native, Expo, MongoDB, Redux, JWT | [GitHub ↗](https://github.com/amitkumarraikwar/Bookworm) |
-| **LegilerHub** | Legal access platform bridging citizens with Indian judicial resources | Next.js, Node.js, Express, MongoDB | [Live ↗](#) |
-| **EduEdge** | Modular School/College ERP + CRM platform with multi-school admin panel | Next.js, Node.js, Express, MongoDB | [GitHub ↗](#) |
+| **LegilerHub** | Legal access platform bridging citizens with Indian judicial resources | Next.js, Node.js, Express, MongoDB | [Live ↗](https://legilerhub.com/) |
 
 </div>
 
@@ -227,7 +226,7 @@ const amit: Developer = {
 
 | Platform | Handle | Link |
 |:--------:|:------:|:----:|
-| LinkedIn | amit-kumar-raikwar-77925a299 | [Connect ↗](https://www.linkedin.com/in/amit-kumar-raikwar-77925a299) |
+| LinkedIn | amit-kumar-raikwar-77925a299 | [Connect ↗](https://www.linkedin.com/in/amitkumarraikwar) |
 | YouTube | @amitkumarraikwar | [Subscribe ↗](https://youtube.com/@amitkumarraikwar) |
 | X / Twitter | @amitraikwar92 | [Follow ↗](https://x.com/amitraikwar92) |
 | Company | NovaEdge Digital Labs | [Visit ↗](https://www.novaedgedigitallabs.tech/) |
