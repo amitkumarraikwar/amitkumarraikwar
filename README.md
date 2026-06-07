@@ -75,9 +75,9 @@ const amit: Developer = {
 
 | Project | Description | Stack | Status |
 |:--------|:------------|:------|:------:|
-| **[NovaEdge Academy](https://www.novaedgedigitallabs.tech/)** | Premium LMS with 60+ pages, full dashboard & course delivery | Next.js 16, Tailwind, Framer Motion, Node.js, MongoDB | Active |
-| **[NovaEdge News](https://novaedge-news.vercel.app/)** | AI-powered automated Hindi news portal via RSS + OpenRouter | Next.js, OpenRouter API, Cron | Live |
-| **[NovaEdge Digital Labs](https://www.novaedgedigitallabs.tech/)** | Company site — Dark Forge aesthetic, GSAP + Three.js | Next.js 15, GSAP, Three.js, Framer Motion | Live |
+| **[NovaEdge Academy](https://www.novaedgeacademy.in/)** | Premium LMS with 60+ pages, full dashboard & course delivery | Next.js 16, Tailwind, Framer Motion, Node.js, MongoDB | Active |
+| **[NovaEdge News](https://news.novaedgedigitallabs.in/)** | AI-powered automated Hindi news portal via RSS + OpenRouter | Next.js, OpenRouter API, Cron | Live |
+| **[NovaEdge Digital Labs](https://www.novaedgedigitallabs.in/)** | Company site — Dark Forge aesthetic, GSAP + Three.js | Next.js 15, GSAP, Three.js, Framer Motion | Live |
 
 <br/>
 
