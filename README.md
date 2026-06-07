@@ -10,7 +10,7 @@
 
 <!-- ANIMATED TYPING SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&pause=1200&color=9333EA&background=00000000&center=true&vCenter=true&width=720&height=48&lines=Full+Stack+Software+Engineer+%7C+MERN+%7C+Next.js;Founder+%26+CTO+%40+NovaEdge+Digital+Labs%2C+Indore;11%2B+Production+Projects+Shipped+Solo;1.6K%2B+YouTube+Subscribers+%7C+BCA+Student;Building+Software+Products+for+Bharat" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=21&pause=1200&color=9333EA&background=00000000&center=true&vCenter=true&width=720&height=48&lines=Full+Stack+Software+Engineer+%7C+MERN+%7C+Next.js;Founder+%26+CEO+%40+NovaEdge+Digital+Labs%2C+Indore;11%2B+Production+Projects+Shipped+Solo;1.6K%2B+YouTube+Subscribers+%7C+BCA+Student;Building+Software+Products+for+Bharat" alt="Typing SVG" />
 </p>
 
 <br/>
