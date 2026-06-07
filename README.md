@@ -164,7 +164,7 @@ const amit: Developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=amitkumarraikwar&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9333ea&icon_color=c084fc&text_color=a5b4fc&show_icons=true&count_private=true&rank_icon=github&include_all_commits=true" height="185"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=amitkumarraikwar&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9333ea&icon_color=c084fc&text_color=a5b4fc&show_icons=true&count_private=true&rank_icon=github&include_all_commits=true" height="185"/>
 &nbsp;&nbsp;
 <img src="https://streak-stats.demolab.com/?user=amitkumarraikwar&theme=tokyonight&hide_border=true&background=0d1117&ring=9333ea&fire=c084fc&currStreakLabel=c084fc&sideLabels=a5b4fc&dates=6b7280" height="185"/>
 
@@ -173,7 +173,7 @@ const amit: Developer = {
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amitkumarraikwar&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9333ea&text_color=a5b4fc&layout=compact&langs_count=10" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amitkumarraikwar&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9333ea&text_color=a5b4fc&layout=compact&langs_count=10" height="165"/>
 </div>
 
 <br/>
@@ -191,7 +191,7 @@ const amit: Developer = {
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=amitkumarraikwar&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" width="100%"/>
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=amitkumarraikwar&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=5&margin-h=5" width="100%"/>
 </div>
 
 <br/>
