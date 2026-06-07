@@ -1,8 +1,8 @@
-name: Generate Snake Animation
+name: Generate Metrics
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -13,11 +13,18 @@ jobs:
     permissions:
       contents: write
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 10
 
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
+
+      - name: Generate 3D Contribution Graph
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          TIME_ZONE: Asia/Kolkata
 
       - name: Generate github-contribution-grid-snake.svg
         uses: Platane/snk/svg-only@v3
@@ -27,10 +34,18 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
+      - name: Prepare output directory
+        run: |
+          mkdir -p output_assets
+          # Move 3D images
+          cp -r profile-3d-contrib/* output_assets/ || true
+          # Move Snake images
+          cp -r dist/* output_assets/ || true
+
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
-          build_dir: dist
+          build_dir: output_assets
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

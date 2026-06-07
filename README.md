@@ -198,8 +198,17 @@ const amit: Developer = {
 
 ---
 
+<!-- ════════════════════════ 3D CONTRIBUTION CALENDAR ══════════════════ -->
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/amitkumarraikwar/amitkumarraikwar/output/profile-night-view.svg" alt="3D GitHub Contribution Calendar" width="100%"/>
+</div>
+
+<br/>
+
+---
+
 <!-- ═══════════════════════ SNAKE CONTRIBUTION GRAPH ════════════════════ -->
-<!-- REQUIRES SETUP: Create .github/workflows/snake.yml (file included) -->
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/amitkumarraikwar/amitkumarraikwar/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
