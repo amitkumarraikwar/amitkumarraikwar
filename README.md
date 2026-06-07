@@ -4,7 +4,7 @@
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:3b0764,100:0d1117&height=280&section=header&text=Amit%20Kumar%20Raikwar&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=52&desc=Full%20Stack%20Software%20Engineer%20%7C%20Founder%20%26%20CTO&descAlignY=73&descSize=21&descColor=c084fc&stroke=9333ea&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:3b0764,100:0d1117&height=280&section=header&text=Amit%20Kumar%20Raikwar&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=52&desc=Full%20Stack%20Software%20Engineer%20%7C%20Founder%20%26%20CEO&descAlignY=73&descSize=21&descColor=c084fc&stroke=9333ea&strokeWidth=2" width="100%"/>
 
 <br/>
 
