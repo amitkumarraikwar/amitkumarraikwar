@@ -201,7 +201,7 @@ const amit: Developer = {
 <!-- ════════════════════════ 3D CONTRIBUTION CALENDAR ══════════════════ -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/amitkumarraikwar/amitkumarraikwar/output/profile-night-view.svg" alt="3D GitHub Contribution Calendar" width="100%"/>
+  <img src="https://github.com/amitkumarraikwar/amitkumarraikwar/blob/output/profile-night-view.svg?raw=true" alt="3D GitHub Contribution Calendar" width="100%"/>
 </div>
 
 <br/>
@@ -211,7 +211,7 @@ const amit: Developer = {
 <!-- ═══════════════════════ SNAKE CONTRIBUTION GRAPH ════════════════════ -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/amitkumarraikwar/amitkumarraikwar/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
+  <img src="https://github.com/amitkumarraikwar/amitkumarraikwar/blob/output/github-contribution-grid-snake-dark.svg?raw=true" alt="GitHub Contribution Snake" width="100%"/>
 </div>
 
 <br/>
