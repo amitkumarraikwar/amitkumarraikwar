@@ -4,7 +4,7 @@
 <!-- ╚══════════════════════════════════════════════════════════════════╝ -->
 
 <!-- ANIMATED HEADER BANNER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:3b0764,100:0d1117&height=280&section=header&text=Amit%20Kumar%20Raikwar&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=52&desc=Full%20Stack%20Software%20Engineer%20%7C%20Founder%20%26%20CEO&descAlignY=73&descSize=21&descColor=c084fc&stroke=9333ea&strokeWidth=2" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:3b0764,100:0d1117&height=280&section=header&text=Amit%20Kumar%20Raikwar&fontSize=62&fontColor=ffffff&animation=fadeIn&fontAlignY=52&desc=Full%20Stack%20Software%20Engineer%20%7C%20Founder%20and%20CEO&descAlignY=73&descSize=21&descColor=c084fc&stroke=9333ea&strokeWidth=2" width="100%"/>
 
 <br/>
 
@@ -60,7 +60,7 @@ const amit: Developer = {
   currentBuild:  "NovaEdge Academy — Premium LMS Platform",
   stack:         ["TypeScript", "Next.js", "Node.js", "MongoDB", "React Native"],
   interests:     ["Product Building", "AI Automation", "Open Source", "EdTech"],
-  philosophy:    "Jo kaam kar raha ho, usme jaan daal do.",
+  philosophy:    "Build products that solve real problems, create value at scale, and leave a lasting impact.",
 };
 ```
 
@@ -244,7 +244,7 @@ const amit: Developer = {
 <br/>
 
 <p align="center">
-  <i>"Jo kaam kar raha ho, usme jaan daal do. Baaki sab auto-save ho jaayega."</i>
+  <i>"Build solutions that matter. Growth, impact, and success follow naturally."</i>
   <br/>
   <strong>— Amit Kumar Raikwar</strong>
 </p>
